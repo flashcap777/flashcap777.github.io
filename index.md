@@ -17,7 +17,7 @@
 - Made with under 2000 tris.
 
 ### 2D Design
-The following are examples of stylized logos for various online series. My main tools for this are GIMP, Photoshop, and Paint Tool SAI.
+The following are examples of stylized logos for various online series.
 ![Image](/images/2D/Secrersts_of_soundtrack_logo.png/)
 ![Image](/images/2D/tmmofgaminglogo.png/)
 ![Image](/images/2D/FlashBros_Letteringnew2.png/)
