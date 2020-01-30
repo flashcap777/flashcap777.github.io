@@ -1,5 +1,5 @@
 # Anselm W.
-## Programming, Graphic Design, Computational Media
+## Programming, Graphic Design, and Computational Media
 ### 3D Design
 
 ![Image](/images/3D/Port_DragonHeadStudy.png/)
