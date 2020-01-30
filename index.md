@@ -14,7 +14,8 @@
 
 ![Image](/images/3D/Port_OMEN.png/) ![Image](/images/3D/Port_OMEN2.png/)
 ```markdown
-- Textured and Rigged Model of cancelled League of Legends Champion, Omen (Made directly from reference). Composited into game world, with cel shading outline.
+- Textured and Rigged Model of cancelled League of Legends Champion, Omen (Made directly from reference). 
+- Composited into game world, with cel shader outline.
 ```
 
 ![Image](/images/3D/Port_MiraKumomori.png/) ![Image](/images/3D/Port_MiraKumomori2.png/)
