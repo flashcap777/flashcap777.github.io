@@ -1,7 +1,7 @@
-#Anselm W.
+# Anselm W.
 ## Programming, Graphic Design, Computational Media
 ### 3D Design
-```markdown
+
 ![Image](/images/3D/Port_DragonHeadStudy.png/)
 - Mesh Study of a Dragon Head, sculpted with lightroom
 
@@ -13,7 +13,7 @@
 
 ![Image](/images/3D/Port_MiraKumomori.png/) ![Image](/images/3D/Port_MiraKumomori2.png/)
 - Stylized Low Poly RPG Protagonist, Model + Rig, Textured. Made with under 2000 tris.
-```
+
 ### 2D Design
 ![Image](src)
 ![Image](src)
