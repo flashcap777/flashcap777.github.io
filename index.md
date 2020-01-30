@@ -7,7 +7,7 @@
 - Mega Man (ロックマン) Model + Rig, Textured.
 ![Image](/images/3D/Port_OMEN.png/) ![Image](/images/3D/Port_OMEN2.png/)
 - Textured and Rigged Model of cancelled League of Legends Champion, Omen (Made directly from reference). Composited into game world, with cel shading outline.
-![Image](/images/3D/Port_MiraKumomori/) ![Image](/images/3D/Port_MiraKumomori2/)
+![Image](/images/3D/Port_MiraKumomori.png/) ![Image](/images/3D/Port_MiraKumomori2.png/)
 - Stylized Low Poly RPG Protagonist, Model + Rig, Textured. Made with under 2000 tris.
 ### 2D Design
 ![Image](src)
