@@ -3,7 +3,7 @@
 ### 3D Design
 
 ![Image](/images/3D/Port_DragonHeadStudy.png/)
-- Mesh Study of a Dragon Head, sculpted with lightroom
+- Sculpted Mesh Study of a Dragon Head, modelled collar.
 
 ![Image](/images/3D/Port_MegaMan1.png/) ![Image](/images/3D/Port_MegaMan2.png/)
 - Mega Man (ロックマン) Model + Rig, Textured.
