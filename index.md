@@ -40,3 +40,7 @@ Bail Out: Battery Fighter is 2D platformer I'm currently developing for PC. The 
 For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The main feature is an algorithm to sort binary strings into level layouts that would maintain paths and openings, and then convert them into solid tiles of rocks. This game features a working health system, enemies, a score system, and for all purposes of demonstration, is 100% complete. This project was created with a week of class time as per the AP curriculum.
 <iframe src="https://drive.google.com/file/d/1dZHHPkCZ4TW7B6e0fcRF1Hgh1JSM0iOa/preview" width="640" height="480"></iframe>
 [Link](url)
+
+## Sonic The Hedgehog Engine Recreation
+Using data from http://info.sonicretro.org/Sonic_Physics_Guide, I accuratley recreated the physics engine from the Sonic The Hedgehog Genesis/MegaDrive games. This is a short demonstration of the engine, showing movement mechanics, paralax scrolling, and enemy AI.
+<iframe src="https://drive.google.com/file/d/16QX_rCRPm_V6Zxt9iya_w-IBKUPziqx2/preview" width="640" height="480"></iframe>
