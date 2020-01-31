@@ -30,4 +30,3 @@ The following are examples of stylized logos for various online series.
 [Link](url)
 [Link](url)
 [Link](url)
-[Link](url)
