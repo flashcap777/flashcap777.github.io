@@ -34,7 +34,7 @@ Bail Out: Battery Fighter is 2D platformer I'm currently developing for PC. The 
 - This is the latest version of the game showcasing a test level, however, many assets are still placeholders.
 
 <iframe src="https://drive.google.com/file/d/1u2fGMinf4smq8zoCFh4W3cTl3tmqamsF/preview" width="640" height="480"></iframe>
-- This is the earliest recorded version of the game showcasing the physics engine, which was slightly revised in later versions.
+- This is the earliest recorded version of the game showcasing the physics engine, which was slightly revised in later versions. 
 
 ## AP Computer Science Principles Create/Performance Task
 For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The main feature is an algorithm to sort binary strings into level layouts that would maintain paths and openings, and then convert them into solid tiles of rocks. This game features a working health system, enemies, a score system, and for all purposes of demonstration, is 100% complete. This project was created with a week of class time as per the AP curriculum.
