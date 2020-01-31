@@ -1,6 +1,6 @@
 # Anselm W.
 ## Graphic Design, Computational Media, and Programming
-### 3D Design
+# 3D Design
 
 ![Image](/images/3D/Port_DragonHeadStudy.png/)
 - Sculpted Mesh Study of a Dragon Head, modelled collar.
@@ -16,7 +16,7 @@
 - Stylized Low Poly RPG Protagonist, Model + Rig, Textured. 
 - Made with under 2000 tris.
 
-### 2D Design
+# 2D Design
 The following are examples of stylized logos for various online series.
 ![Image](/images/2D/Secrersts_of_soundtrack_logo.png/)
 ![Image](/images/2D/tmmofgaminglogo.png/)
@@ -27,7 +27,7 @@ The following are examples of stylized logos for various online series.
 ![Image](/images/2D/VirtualSoLogo.png/)
 - This is the logo I made for a conceptual business which would specialize in self-playing instruments using deep neural network machine learning
 
-### Projects
+# Projects
 ## Bail Out: Battery Fighter
 Bail Out: Battery Fighter is 2D platformer I'm currently developing for PC. The main mechanic is a dash, which can counter enemy attacks, and resets on contact with the ground.
 <iframe src="https://drive.google.com/file/d/1VMXlO0ekaE0YPyhm_ktXFzA3GYGYurHz/preview" width="640" height="480"></iframe>
