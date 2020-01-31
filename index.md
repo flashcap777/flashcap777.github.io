@@ -25,7 +25,7 @@ The following are examples of stylized logos for various online series.
 - This is a logo design I made for my friend's name, who has the initials N. M.
 - Vector converted to PNG.
 ![Image](/images/2D/VirtualSoLogo.png/)
-- This is the logo I made for a conceptual business which would specialize in self-playing instruments using deep neural network machine learning.
+- This is the logo I made for a conceptual business which would specialize in self-playing instruments using deep neural network machine learning
 
 ### Projects
 <iframe src="https://drive.google.com/file/d/1u2fGMinf4smq8zoCFh4W3cTl3tmqamsF/preview" width="640" height="480"></iframe>
