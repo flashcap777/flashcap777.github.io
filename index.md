@@ -28,6 +28,11 @@ The following are examples of stylized logos for various online series.
 - This is the logo I made for a conceptual business which would specialize in self-playing instruments using deep neural network machine learning
 
 ### Projects
+## Bail Out: Battery Fighter
+Bail Out: Battery Fighter is 2D platformer I'm currently developing for PC. The main mechanic is a dash, which can counter enemy attacks, and resets on contact with the ground.
 <iframe src="https://drive.google.com/file/d/1u2fGMinf4smq8zoCFh4W3cTl3tmqamsF/preview" width="640" height="480"></iframe>
+
+## AP Computer Science Principles Create/Performance Task
+For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The main feature is an algorithm to sort binary strings into level layouts that would maintain paths and openings, and then convert them into solid tiles of rocks. This game features a working health system, enemies, a score system, and for all purposes of demonstration, is 100% complete. This project was created with a week of class time as per the AP curriculum.
 <iframe src="https://drive.google.com/file/d/1dZHHPkCZ4TW7B6e0fcRF1Hgh1JSM0iOa/preview" width="640" height="480"></iframe>
 [Link](url)
