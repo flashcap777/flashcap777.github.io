@@ -22,7 +22,7 @@ The following are examples of stylized logos for various online series.
 ![Image](/images/2D/tmmofgaminglogo.png/)
 ![Image](/images/2D/FlashBros_Letteringnew2.png/)
 ![Image]("/images/2D/VirtualSoLogo.png/")
-- This is the logo I made for a conceptual business which would specialize in self-playing instruments via machine learning.
+- This is the logo I made for a conceptual business which would specialize in self-playing instruments using deep neural network machine learning.
 ![Image](/images/2D/NickLogo.png/)
 - This is a logo design I made for my friend's name, who has the initials N. M. Vector converted to PNG.
 
