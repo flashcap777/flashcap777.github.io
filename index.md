@@ -41,5 +41,5 @@ For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The
 <iframe src="https://drive.google.com/file/d/1dZHHPkCZ4TW7B6e0fcRF1Hgh1JSM0iOa/preview" width="640" height="480"></iframe>
 
 ## Sonic The Hedgehog Engine Recreation
-Using data from [the Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) on SonicRetro.org, I accurately recreated the physics engine from the Sonic The Hedgehog Genesis/MegaDrive games. This is a short demonstration of the engine, showing movement mechanics, paralax scrolling, and enemy AI. on SonicRetro.org
+Using data from [the Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) on SonicRetro.org, I accurately recreated the physics engine from the Sonic The Hedgehog Genesis/MegaDrive games. This is a short demonstration of the engine, showing movement mechanics, paralax scrolling, and enemy AI.
 <iframe src="https://drive.google.com/file/d/16QX_rCRPm_V6Zxt9iya_w-IBKUPziqx2/preview" width="640" height="480"></iframe>
