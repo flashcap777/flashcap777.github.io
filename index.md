@@ -36,18 +36,6 @@ Bail Out: Battery Fighter is 2D platformer I'm currently developing for PC. The 
 <iframe src="https://drive.google.com/file/d/1u2fGMinf4smq8zoCFh4W3cTl3tmqamsF/preview" width="640" height="480"></iframe>
 - This is the earliest recorded version of the game showcasing the physics engine, which was slightly revised in later versions. 
 
-# Music
-## FamiTracker
-
-## Non-NES Soundtracks
-<audio controls>
-  <source src="audio/Miradyssey Battle Theme v2.ogg" type="audio/ogg">
-  <source src="audio/Venomworks Construct.ogg" type="audio/ogg">
-  <source src="audio/Walls of The Quartz Castle.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-
 ## AP Computer Science Principles Create/Performance Task
 For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The main feature is an algorithm to sort binary strings into level layouts that would maintain paths and openings, and then convert them into solid tiles of rocks. This game features a working health system, enemies, a score system, and for all purposes of demonstration, is 100% complete. This project was created with a week of class time as per the AP curriculum. 
 <iframe src="https://drive.google.com/file/d/1dZHHPkCZ4TW7B6e0fcRF1Hgh1JSM0iOa/preview" width="640" height="480"></iframe>
@@ -55,3 +43,23 @@ For my Create/Performance Task, I made a randomly generated Dungeon Crawler. The
 ## Sonic The Hedgehog Engine Recreation
 Using data from [the Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) on SonicRetro.org, I accurately recreated the physics engine from the Sonic The Hedgehog Genesis/MegaDrive games. This is a short demonstration of the engine, showing movement mechanics, paralax scrolling, and enemy AI.
 <iframe src="https://drive.google.com/file/d/16QX_rCRPm_V6Zxt9iya_w-IBKUPziqx2/preview" width="640" height="480"></iframe>
+
+# Music
+## FamiTracker
+
+## Non-NES Soundtracks
+<audio controls>
+  <source src="audio/Miradyssey Battle Theme v2.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+  
+</audio>
+<audio controls>
+   <source src="audio/Venomworks Construct.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+  
+</audio>
+<audio controls>
+  <source src="audio/Walls of The Quartz Castle.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+  
+</audio>
