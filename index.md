@@ -48,18 +48,28 @@ Using data from [the Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physi
 ## FamiTracker
 
 ## Non-NES Soundtracks
+
+### Miradyssey OST - Battle Theme
 <audio controls>
   <source src="audio/Miradyssey Battle Theme v2.ogg" type="audio/ogg">
 Your browser does not support the audio element.
   
 </audio>
+- This song is the main battle theme for my first 3D Project, Miradyssey, an RTS-JRPG which is also in development. This project is where the low poly protagonist originates. I wanted to make it sound reminiscent of older RPG battle themes in the beginning, but quickly diverge it into something more unique and memorable. 
+
+### Miradyssey OST - Venomworks Construct
 <audio controls>
    <source src="audio/Venomworks Construct.ogg" type="audio/ogg">
 Your browser does not support the audio element.
   
 </audio>
+- This song is one of the main dungeon themes for Miradyssey, "Venomworks Construct." I used various chiptune samples and more digital-sounding instruments to represent the nature of the enemies in this area; the Lunyoro, a group of technologically advanced gravity bending snakes (who are probably more terrifying than snakes restricted to the ground).
+
+### Unused OST - Walls of The Quartz Castle
+
 <audio controls>
   <source src="audio/Walls of The Quartz Castle.ogg" type="audio/ogg">
 Your browser does not support the audio element.
   
 </audio>
+- This song is not used in any of my current projects, but I wanted to make it to experiment with the Pokemon soundfont, which this track features heavily. The name was chosen after the song was long completed, because it made me imagine a hero scaling a castle of quartz, gaining hope throughout the piece has he faces many challenges, puzzles, and enemies. 
