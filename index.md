@@ -46,6 +46,24 @@ Using data from [the Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physi
 
 # Music
 ## FamiTracker
+FamiTracker is an NES soundchip emulator which can be used to program songs that can run on real NES hardware.
+Using this, I taught myself how to compose music, and later created soundtracks for many of my projects.
+
+### Bail Out: Battery Fighter OST - First Contact
+<iframe src="https://drive.google.com/file/d/1XgdGJK-g-EqZeIzLwgZrOVm-XhduOefn/preview" width="640" height="480"></iframe>
+- This is one of the final boss themes in Bail Out: BF (ironically titled "First Contact") where the main enemy is an intergalactic horror that has appeared before the protagonist. In the intro, I used more obscure chords and intervals in establishing a motif, to represent the unnatural nature of the alien menace. The motif then appears again, now with more common intervals to represent the hero's successful analysis of his enemy's abilities. He then finds courage in the end, where the key changes a third time to fill the player with determination.
+
+### Bail Out: Battery Fighter OST - High Alert
+<iframe src="https://drive.google.com/file/d/14NTeuxchqWJ1UUwt8KzdK9CgWEfBHXH7/preview" width="640" height="480"></iframe>
+- This is one of the last level themes in Bail Out: BF, where the player has to escape the area after tripping an alarm system, (aptly named, "High Alert"). I took more inspiration from rock and roll songs in making this theme. 
+
+### Super Dragon Vanguard! OST - The Vanguard Basilisks [Stage 5]
+<iframe src="https://drive.google.com/file/d/1SIi2zWBuLMJ3powJR-nHAAgySpZIO0N8/preview" width="640" height="480"></iframe>
+- This is a song created for a conceptual game about Dragons and Arkanoid that I came up with. My friend helped me compose the opening melody, which I transcribed into FamiTracker, and completed.
+
+### Super Dragon Vanguard! OST - Attack On Colossus [Boss Theme]
+<iframe src="https://drive.google.com/file/d/1kYgppMm9uGXWiJQf0iFHQXzVvUZDORfZ/preview" width="640" height="480"></iframe>
+This is another song created for SDV, this time, a Boss theme.
 
 ## Non-NES Soundtracks
 
