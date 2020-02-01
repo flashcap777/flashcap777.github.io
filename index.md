@@ -91,3 +91,8 @@ Your browser does not support the audio element.
   
 </audio>
 - This song is not used in any of my current projects, but I wanted to make it to experiment with the Pokemon soundfont, which this track features heavily. The name was chosen after the song was long completed, because it made me imagine a hero scaling a castle of quartz, gaining hope throughout the piece has he faces many challenges, puzzles, and enemies. 
+
+# Contact
+For more work/information, my main contact email is anselmwisdo@gmail.com
+
+Disclaimer: All content displayed in this portfolio is protected under U.S copyright law and may not be reused/redistributed without explicit permission.
